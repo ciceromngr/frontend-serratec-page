@@ -1,0 +1,13 @@
+.page-footer {
+
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(52, 58, 64);
+    color: white;
+    text-align: center;
+}
+mr-3 mt-3 rounded-circle {
+    width: 20px;
+    height: 20px;
+}
